@@ -20,3 +20,6 @@ server/node_modules
 *.njsproj
 *.sln
 *.sw?
+
+server/env
+client/env
